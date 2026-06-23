@@ -8,3 +8,4 @@ If you're active in the @base ecosystem, it may be worth making sure your Coinba
 ✅ Country Verification
 ✅ Account Reputation
 But one thing is clear👉 projects are getting better at distinguishing real users from farm wallets.
+And somehow people still think Base is “just another L2.”
